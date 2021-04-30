@@ -1,0 +1,3 @@
+include ':payme'
+include ':app'
+rootProject.name = "PayMeLinkBuilder"
